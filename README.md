@@ -6,6 +6,7 @@ Termux:
 - pkg install python2 ruby curl git wget -y
 - git clone https://github.com/Bl4ckDr460n/Dr460nVirus
 - cd Dr460nVirus
+- pi2 install -r module.txt
 - python2 Dr460nVirus.py
 
 Linux:
@@ -13,6 +14,7 @@ Linux:
 - apt-get install git
 - git clone https://github.com/Bl4ckDr460n/Dr460nVirus
 - cd Dr460nVirus
+- pip2 install -r module.txt
 - python2 Dr460nVirus.py
 
 + Jangan Di Recode Ya Hargai Author Nya
